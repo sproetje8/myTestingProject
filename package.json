@@ -1,0 +1,22 @@
+{
+  "name": "mytestproject",
+  "version": "1.0.0",
+  "description": "a project to practice writing unit tests with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sproetje8/myTestingProject.git"
+  },
+  "author": "Evelien Kulikova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sproetje8/myTestingProject/issues"
+  },
+  "homepage": "https://github.com/sproetje8/myTestingProject#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
